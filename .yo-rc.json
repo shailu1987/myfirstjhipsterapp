@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.infobeans.myapp",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "microservice",
+    "baseName": "myfirstjhipsterapp",
+    "packageName": "com.infobeans.myapp",
+    "packageFolder": "com/infobeans/myapp",
+    "serverPort": "8088",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YWIwZjZiZjdjMTNjNGU1YjVmYTA0YzE3ZWU5YjcwNWNjMmRlZTRjYjhjYzA3N2JlNjRmMzA1NGRjODRiYzRiMzE3ZjRkNmJlNDZiMzIyM2MwNjFiYjgzZjgxNWQ2YjExYWUxMzhjODNmYTY2ZjNiOGQ0MTNlNzUwMTdhZjk0MTU=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
